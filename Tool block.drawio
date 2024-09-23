@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
-    <mxGraphModel dx="5767" dy="6007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3460" dy="3604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,6 +372,39 @@
         </mxCell>
         <UserObject label="Margin: 0" placeholders="1" name="Variable" id="FF6e9Q_r3WUp5Flmuwcu-22">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;fontSize=15;labelBackgroundColor=#FF9999;" parent="FF6e9Q_r3WUp5Flmuwcu-20" vertex="1">
+            <mxGeometry x="260" y="-5" width="220" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dqzIOjJ2OISLQQkiGYND-1" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1190" width="760" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dqzIOjJ2OISLQQkiGYND-2" value="&lt;font color=&quot;#222020&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Output Blocks&lt;/b&gt;&lt;/font&gt;" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="dqzIOjJ2OISLQQkiGYND-1">
+          <mxGeometry x="5" y="-5" width="170" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Margin: 0" placeholders="1" name="Variable" id="dqzIOjJ2OISLQQkiGYND-3">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;fontSize=15;labelBackgroundColor=#FF9999;" vertex="1" parent="dqzIOjJ2OISLQQkiGYND-1">
+            <mxGeometry x="260" y="-5" width="220" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dqzIOjJ2OISLQQkiGYND-4" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="1190" width="760" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dqzIOjJ2OISLQQkiGYND-5" value="&lt;font color=&quot;#222020&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Output Blocks&lt;/b&gt;&lt;/font&gt;" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="dqzIOjJ2OISLQQkiGYND-4">
+          <mxGeometry x="5" y="-5" width="170" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Margin: 0" placeholders="1" name="Variable" id="dqzIOjJ2OISLQQkiGYND-6">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;fontSize=15;labelBackgroundColor=#FF9999;" vertex="1" parent="dqzIOjJ2OISLQQkiGYND-4">
+            <mxGeometry x="260" y="-5" width="220" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dqzIOjJ2OISLQQkiGYND-7" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="1190" width="760" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dqzIOjJ2OISLQQkiGYND-8" value="&lt;font color=&quot;#222020&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Output Blocks&lt;/b&gt;&lt;/font&gt;" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="dqzIOjJ2OISLQQkiGYND-7">
+          <mxGeometry x="5" y="-5" width="170" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Margin: 0" placeholders="1" name="Variable" id="dqzIOjJ2OISLQQkiGYND-9">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;fontSize=15;labelBackgroundColor=#FF9999;" vertex="1" parent="dqzIOjJ2OISLQQkiGYND-7">
             <mxGeometry x="260" y="-5" width="220" height="20" as="geometry" />
           </mxCell>
         </UserObject>
